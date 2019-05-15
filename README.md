@@ -1,2 +1,2 @@
-# Python
-Python practice code as well as projects; all in Python
+# Coding Bat Solutions
+Coding Bat Solutions
