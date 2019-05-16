@@ -1,2 +1,2 @@
-# Coding Bat Solutions
-Coding Bat Solutions
+# Coding Bat Python Solutions
+Python Solutions
